@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ejercicio Permisos</string>
+    <string name="text_permiso">Solicitar Permiso de Almacenamiento</string>
+</resources>
